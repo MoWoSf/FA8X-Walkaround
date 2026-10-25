@@ -1,0 +1,5 @@
+1.0
+- First release with SkunkCrafts Updater support
+- Walk through the cabin and around the aircraft with W/A/S/D, crouch, seats, footsteps, head bob
+- Start outside, door mat, luggage van and GLS ride from the FBO lounge
+- Plugin for Windows, macOS and Linux
