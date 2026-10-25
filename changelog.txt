@@ -1,3 +1,6 @@
+1.3
+- FBO lounge: the VATSIM ATIS shows line by line as the controller wrote it; lines too long for the screen continue on the next line (the first line was cut off)
+
 1.2
 - FBO lounge: the black box while the lounge loads is back, now closed on all sides; none on the way to the car any more
 
