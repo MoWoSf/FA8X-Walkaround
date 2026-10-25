@@ -3,14 +3,12 @@ FA8X_SoundDesigner.html|1330942311
 FA8X_Walkaround.grid|31183405
 FA8X_Walkaround.ini|-1
 FA8X_Walkaround.seats|2658007233
-changelog.txt|2335553236
+changelog.txt|1545514760
 fbo/fa8x_fbo.dds|952819793
 fbo/fa8x_fbo.layout|759304751
 fbo/fa8x_fbo.obj|4181360245
 fbo/fa8x_fbo_LIT.dds|3370858202
 fbo/fa8x_fbo_NRM.png|4274105375
-fbo/fa8x_fbo_blind.obj|600311277
-fbo/fa8x_fbo_blind.png|2840899880
 fbo/fa8x_fbo_deco.dds|2800572654
 fbo/fa8x_fbo_deco.obj|3782682405
 fbo/fa8x_fbo_deco_LIT.dds|2159949989
@@ -46,9 +44,9 @@ gse/voice_chat3.wav|89864533
 gse/voice_chat4.wav|3577133334
 gse/voice_hello.wav|1790930266
 gse/voice_welcome.wav|3769900954
-lin_x64/FA8X_Walkaround.xpl|3480572791
+lin_x64/FA8X_Walkaround.xpl|4257084745
 mac_x64/FA8X_Walkaround.xpl|2626061800
 mat/fa8x_doormat.obj|706625894
 mat/fa8x_doormat.png|1880502021
 mat/fa8x_doormat_NRM.png|109779434
-win_x64/FA8X_Walkaround.xpl|473990517
+win_x64/FA8X_Walkaround.xpl|1371690230

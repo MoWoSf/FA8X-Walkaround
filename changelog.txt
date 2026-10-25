@@ -1,3 +1,9 @@
+1.1
+- Phone: new home screen with your SimBrief plan, VATSIM status, local time and UTC; apps Ground Service, Messages, FBO and Settings
+- Settings (VATSIM CID, SimBrief Pilot ID) are now an app in the phone; the paste button and Ctrl+V take only the digits
+- FBO lounge: flight plan, ATIS and weather screens refresh every 10 s while you are in the lounge
+- FBO lounge: the black box while loading is gone
+
 1.0
 - First release with SkunkCrafts Updater support
 - Walk through the cabin and around the aircraft with W/A/S/D, crouch, seats, footsteps, head bob

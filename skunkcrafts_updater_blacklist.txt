@@ -1,0 +1,2 @@
+fbo/fa8x_fbo_blind.obj
+fbo/fa8x_fbo_blind.png
