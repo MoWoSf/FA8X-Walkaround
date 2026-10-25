@@ -1,3 +1,15 @@
+1.4
+- Keys: Shift/Ctrl with W/A/S/D stay X-Plane's while seated
+- New bindable commands: walk, run, crouch; "walk_keys = 0" frees all keys
+- FBO and phone: the livery's tail number instead of a bare SimBrief registration
+- Door mat: a livery can bring its own ("doormat" PNG/JPEG in the livery folder)
+- Vehicles: smoother paint and edges, more detailed wheels, baked shading, faster loading
+- Passenger car: rear plate between the tail lamps; two inside-out wheels fixed
+- Passenger car cabin: rounder seats and dashboard, leather, quilting, carpet, suede headliner
+- Chauffeur holds the wheel; passengers sit properly in the rear seats
+- Vehicle sounds: the car's V8 (inside and out), doors, indicator; the van's electric drive and tailgate; setting vehicle_sound_volume
+- Luggage van: the tailgate opens faster
+
 1.3
 - FBO lounge: the VATSIM ATIS shows line by line as the controller wrote it; lines too long for the screen continue on the next line (the first line was cut off)
 

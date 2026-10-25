@@ -1,5 +1,5 @@
-FA8X Walkaround - credits for the 3D models
-============================================
+FA8X Walkaround - credits for the 3D models and sounds
+=======================================================
 
 The vehicles and the people in them are based on these models, all licensed
 under Creative Commons Attribution 4.0 (http://creativecommons.org/licenses/by/4.0/).
@@ -133,3 +133,30 @@ Other parts
   sherpa-onnx (Apache License 2.0, https://github.com/k2-fsa/sherpa-onnx),
   tools/gse/mkvoices.ps1.
 - The footstep sounds are synthesised by the plugin itself.
+
+
+Vehicle sounds
+--------------
+Cut from recordings on Freesound (https://freesound.org): trimmed, looped, levelled,
+some low-passed (tools/gse/mksounds.py).
+
+Licensed under Creative Commons Attribution:
+- The car's engine in its cabin: "A car, start, idling, engine shut down, interior,
+  Dodge Charger 471 V8" (https://freesound.org/s/324980/) and "A car, door, start, ...
+  driving on asphalt ... interior, Dodge Charger 471 V8" (https://freesound.org/s/325102/)
+  by YleArkisto, CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/).
+- The car's rear doors: "BMW 640D Gran Coupe foley interior doors open close mono
+  8040.wav" (https://freesound.org/s/425507/) by Soundholder, CC BY 3.0
+  (http://creativecommons.org/licenses/by/3.0/).
+- The van driving: "MITSUBISHI IMIEV electric car DRIVE windows open in parking garage"
+  (https://freesound.org/s/174850/) by jakobthiesen, CC BY 3.0
+  (http://creativecommons.org/licenses/by/3.0/).
+
+Dedicated to the public domain (CC0):
+- The car's engine outside: "Car, BMW M6, Start, Idle, Accelerate" by Kinoton
+  (https://freesound.org/s/478597/).
+- Road noise in the car: "Interior Audi A6 2014" by janbezouska (https://freesound.org/s/537766/).
+- The car's indicator: "Car blinker" by Audy_Leonard (https://freesound.org/s/431816/).
+- The van's tailgate: "Exterior Prius back hatch open close" by buddhafish
+  (https://freesound.org/s/327700/) and "08_Renault_duster_Trunk_close_open" by
+  semenov_nick (https://freesound.org/s/380724/).
