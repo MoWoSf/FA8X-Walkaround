@@ -1,3 +1,6 @@
+1.4.1
+- X-Camera: walking, leaning, the FBO and the ride work while X-Camera is on; the plugin draws the view itself until you pick an X-Camera view again (look round with the right mouse button); getting up from a seat no longer jumps to X-Camera's pilot view; "xcamera = 0" turns this off
+
 1.4
 - Keys: Shift/Ctrl with W/A/S/D stay X-Plane's while seated
 - New bindable commands: walk, run, crouch; "walk_keys = 0" frees all keys
