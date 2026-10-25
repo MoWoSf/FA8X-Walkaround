@@ -1,3 +1,8 @@
+1.4.2
+- Crash fixed: the car's route search crashed at airports without vehicle parking spots near the stand (e.g. some custom EDDM sceneries)
+- FBO music: leaving the lounge by the menu or a command (Pilot seat, Go outside) now ends the visit, so the music stops
+- X-Camera: at the start the plugin switches X-Camera off and on once (it would not let you move before), then puts you in the FBO or outside; X-Camera switching itself on or picking its first camera no longer throws you out of the FBO
+
 1.4.1
 - X-Camera: walking, leaning, the FBO and the ride work while X-Camera is on; the plugin draws the view itself until you pick an X-Camera view again (look round with the right mouse button); getting up from a seat no longer jumps to X-Camera's pilot view; "xcamera = 0" turns this off
 
