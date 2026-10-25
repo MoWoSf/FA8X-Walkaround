@@ -1,3 +1,6 @@
+1.2
+- FBO lounge: the black box while the lounge loads is back, now closed on all sides; none on the way to the car any more
+
 1.1
 - Phone: new home screen with your SimBrief plan, VATSIM status, local time and UTC; apps Ground Service, Messages, FBO and Settings
 - Settings (VATSIM CID, SimBrief Pilot ID) are now an app in the phone; the paste button and Ctrl+V take only the digits
