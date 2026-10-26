@@ -1,3 +1,13 @@
+1.5
+- FBO lounge: a runner from the airside door to the reception, made like the door mat (anthracite pile, rolled binding, a bronze line)
+- FBO: your own pictures in the new folder fbo_custom, the same with every livery: "runner" in the name goes onto the runner (two panels; "_1" one in the middle; "_h" one along the runner), "tv" onto the screen behind the reception; a logo on a plain background colours the whole runner; settings fbo_runner and fbo_custom
+- FBO: write your own sign over the reception on the phone (Settings > FBO sign): a title and the line under it in brass letters; the departure board and the phone welcome you to that name
+- FBO: the lamps at half their brightness, at night 10 % less again (the lounge and the runner looked over-lit)
+- Phone: redesigned throughout: one look on every page (app icons, cards, buttons, segmented switches, status pills); Settings split into Network (VATSIM, SimBrief), Preferences and FBO sign
+- Phone, FBO app: in the lounge the hint to walk to the "To Aircraft" door is plain text now, no longer shaped like a button
+- Phone, Settings: new switch "X-Camera in the cockpit": sitting down in the pilot or copilot seat hands the view and W/A/S/D back to X-Camera (stand up with the walk commands)
+- Phone, Settings: new switch "Go outside at the stairs": Go outside puts you at the foot of the stairs instead of 15 m away
+
 1.4.2
 - Crash fixed: the car's route search crashed at airports without vehicle parking spots near the stand (e.g. some custom EDDM sceneries)
 - FBO music: leaving the lounge by the menu or a command (Pilot seat, Go outside) now ends the visit, so the music stops
