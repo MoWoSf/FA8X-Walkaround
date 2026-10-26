@@ -1,9 +1,9 @@
 CREDITS.txt|10609
 FA8X_SoundDesigner.html|40437
 FA8X_Walkaround.grid|4368028
-FA8X_Walkaround.ini|7191
+FA8X_Walkaround.ini|7534
 FA8X_Walkaround.seats|1067
-changelog.txt|3952
+changelog.txt|4363
 fbo/fa8x_fbo.dds|11184952
 fbo/fa8x_fbo.layout|45405
 fbo/fa8x_fbo.obj|22571413
@@ -33,7 +33,7 @@ fbo/fa8x_fbo_runner_two.obj|2283146
 fbo/fa8x_fbo_sign.glyphs|1379320
 fbo/fa8x_fbo_tv1.dds|1398248
 fbo/fa8x_fbo_tv1.obj|460
-fbo_custom/README.txt|1513
+fbo_custom/README.txt|1772
 gse/eqv_ext_drive_loop.wav|1200044
 gse/eqv_tailgate_close.wav|203564
 gse/eqv_tailgate_open.wav|145964
@@ -78,11 +78,11 @@ gse/voice_chat3.wav|127280
 gse/voice_chat4.wav|86212
 gse/voice_hello.wav|56742
 gse/voice_welcome.wav|69340
-lin_x64/FA8X_Walkaround.xpl|411472
+lin_x64/FA8X_Walkaround.xpl|416464
 mac_x64/FA8X_Walkaround.xpl|909424
 mat/fa8x_doormat.obj|855335
 mat/fa8x_doormat.png|1610587
 mat/fa8x_doormat_NRM.png|3772795
 mat/fa8x_doormat_plain.png|1394225
 mat/fa8x_doormat_plain_NRM.png|3637333
-win_x64/FA8X_Walkaround.xpl|382976
+win_x64/FA8X_Walkaround.xpl|388096

@@ -24,6 +24,11 @@ The screen behind the reception: a name with "tv" in it (e.g.
 any other lies in the middle on its own background colour (a
 transparent logo on black, or on white if the logo is dark).
 
+Music: MP3 files (OGG, FLAC and WAV work too) play in the lounge instead of
+its own music, one after the other in name order and round again; the next
+visit goes on with the next one. "fbo_music_volume" in FA8X_Walkaround.ini
+sets the volume (0 = no music).
+
 Only one picture of each kind is used: the first by name. WebP pictures
 are not read: save them as PNG or JPEG. "fbo_custom = 0" in
 FA8X_Walkaround.ini turns this off.
