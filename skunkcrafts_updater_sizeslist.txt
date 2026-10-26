@@ -79,7 +79,7 @@ gse/voice_chat4.wav|86212
 gse/voice_hello.wav|56742
 gse/voice_welcome.wav|69340
 lin_x64/FA8X_Walkaround.xpl|416464
-mac_x64/FA8X_Walkaround.xpl|909424
+mac_x64/FA8X_Walkaround.xpl|926816
 mat/fa8x_doormat.obj|855335
 mat/fa8x_doormat.png|1610587
 mat/fa8x_doormat_NRM.png|3772795
