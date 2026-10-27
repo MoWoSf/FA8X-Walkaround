@@ -1,3 +1,12 @@
+1.5.1
+- Turnaround: after collecting, van and car bring new bags and passengers once your next SimBrief plan from this airport is in
+- Collecting: a vehicle sent away early can come again; also after a round trip to the same airport
+- Vehicles keep more distance to the aircraft, no longer drive through the wings and avoid other parked aircraft (AI/multiplayer)
+- FBO: the briefing room computer opens SimBrief in your browser
+- FBO: the briefing room clocks run
+- Zoom: no longer locked after sitting down with X-Camera
+- Phone: "Go to the lounge" says why when it cannot
+
 1.5
 - FBO lounge: a runner from the airside door to the reception, made like the door mat (anthracite pile, rolled binding, a bronze line)
 - FBO: your own pictures in the new folder fbo_custom, the same with every livery: "runner" in the name goes onto the runner (two panels; "_1" one in the middle; "_h" one along the runner), "tv" onto the screen behind the reception; a logo on a plain background colours the whole runner; settings fbo_runner and fbo_custom
